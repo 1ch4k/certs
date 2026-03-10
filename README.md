@@ -2,6 +2,7 @@
 
 | Certificate Name | Provider | URL | PDF File |
 |------------------|----------|-----|----------|
+| Information Security | freeCodeCamp | https://www.freecodecamp.org/learn/information-security | Information_Security_IC.pdf |
 | Intro to Programming | Kaggle | https://www.kaggle.com/learn/intro-to-programming | Intro_to_Programming_IC.pdf |
 | Python | Kaggle | https://www.kaggle.com/learn/python | Python_IC.pdf |
 | Data Cleaning | Kaggle | https://www.kaggle.com/learn/data-cleaning | Data_Cleaning_IC.pdf |

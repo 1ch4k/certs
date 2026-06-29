@@ -2,6 +2,7 @@
 
 | Certificate Name | Provider | URL | PDF File |
 |------------------|----------|-----|----------|
+| Penetration Testing Professional Certificate | Linkedin Learning | https://www.linkedin.com/learning/paths/penetration-testing-professional-certificate-by-cybrary | Penetration_Testing_Professional_Certificate_by_Cybrary_IC.pdf |
 | Information Security | freeCodeCamp | https://www.freecodecamp.org/learn/information-security | Information_Security_IC.pdf |
 | Intro to Programming | Kaggle | https://www.kaggle.com/learn/intro-to-programming | Intro_to_Programming_IC.pdf |
 | Python | Kaggle | https://www.kaggle.com/learn/python | Python_IC.pdf |
